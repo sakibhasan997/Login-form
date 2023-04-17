@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Milestone 7"
+		},
+		{
+			"path": "../../../Milestone 6/phone-hanter"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Login"
+	}
+}
